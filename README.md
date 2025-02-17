@@ -1,1 +1,1 @@
-# szentesmirtill_pekseg
+# kozvelemeny-kutatasi_webalkalmazas_administration
